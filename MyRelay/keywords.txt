@@ -1,0 +1,7 @@
+MyRelay	KEYWORD1
+
+on_50ms	KEYWORD2
+on_100ms	KEYWORD2
+on_200ms	KEYWORD2
+on_1ms	KEYWORD2
+on_time	KEYWORD2
